@@ -80,7 +80,7 @@ education:
 
 experiences:
     - role: Développeur JavaScript full stack 
-      time: 2017 - Present
+      time: 2017-07 - Présent
       company: Oyez, Tunis
       details: |
         Carrefour
@@ -136,7 +136,7 @@ experiences:
           - Environnement de développement (atome, Ubuntu 16.04 , node , MongoDB, StartUML,Photoshop... )
 
     - role: Stagiaire
-      time: 2012 - 2014
+      time: 2016-07
       company: Direction Centrale Système Informatique, Tunisie Telecom, Tunis
       details: |
         Stage d’été ( 1 mois)
@@ -202,23 +202,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: JavaScript (Vanilla - ES5 - ES6 - TypeScript)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: React, React Native
         level: 98%
 
-      - name: Angular
+      - name: Node js
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: GraphQL
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Apollo
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Relay
+        level: 95%
+
+        - name: Redux
+        level: 95%
+
+        - name: Flux js
+        level: 95%
+
+        - name: Express js
+        level: 95%
+
+        - name: Koa js
+        level: 95%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
