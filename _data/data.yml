@@ -220,16 +220,16 @@ skills:
       - name: Relay
         level: 95%
 
-        - name: Redux
+      - name: Redux
         level: 95%
 
-        - name: Flux js
+      - name: Flux js
         level: 95%
 
-        - name: Express js
+      - name: Express js
         level: 95%
 
-        - name: Koa js
+      - name: Koa js
         level: 95%
 
 # footer: >
