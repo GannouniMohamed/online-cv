@@ -78,22 +78,49 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Développeur JavaScript full stack 
+      time: 2017 - Present
+      company: Oyez, Tunis
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Carrefour
+          
+          - Développement d'une application mobile pour les vendeurs Carrefour.
+          - Développement de plusieurs microservices Node/express/GraphQL.
+          - Maintenance de l'application
+          - Environnement (React Native, Relay, Redux, Node.js, GraphQL, Redis, Docker.)
 
-          - Bullet point
-          - Bullet point
+        Monoprix
+          
+          - Maintenance d'une application web Monoprix (fr) (700k visites mensuelles)
+          - Ajout des fonctionnalités sur l’application.
+          - Environnement (React, Apollo, Redux, GraphQl, GCloud, Kubernetes, ...)
+
+        Commande-com (Safo) 
+          
+          - Développement de plusieurs microservices Node/express pour la gestion des exports imports des données.
+          - Environnement (Node js, Mongodb, mongoose, MySQL, Sequelize js,  Google Cloud Storage, etc ...).
+
+        Maison du monde 
+          
+          - Développement d'une solution de paiement en magasin sous, cordova plugin développé en java avec l'api Ingenico, et l'organisation la procédure de paiement
+          - Ajout des fonctionnalités sur l’application.
+          - Mise en place des tests unitaires avec JEST.
+          - Environnement (React, Webpack, Cordova, Flux js ...)
+
+
+        Infiniti
+          
+          - Développement d'une application Mobile (React Native) pour la marque Infiniti.
+          - Environnement React Native .
+
+
+        Projet interne
+
+          -Création d'une application Web et Mobile pour organiser les votes dans les brainstormings,
+          (Back-office, Front office, les push notification web et mobile, Cloud functions)
+
+          - Environnement mobile (React Native, Expo, Firebase, Native Base).
+          - Environnement web (React, Semantic UI,  Firebase).
 
     - role: Senior Software Engineer
       time: 2014 - 2015
