@@ -42,13 +42,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
       Développeur FullStack polyvalent avec 1 an et 10 mois d'expérience dans le développement
       et la gestion des application (Web & Mobile) d'e-commerce .
       Spécialisé dans (React JS / React Native) et (GraphQL, Apollo ...).
 
-      Second paragraph if required.
+      Passionné par le développement, Sensible à la qualité,
+      Motivé pour élargir encore mes compétences..
 
 education:
     - degree: Licence fondamentale en sciences de l'informatique
@@ -122,31 +123,32 @@ experiences:
           - Environnement mobile (React Native, Expo, Firebase, Native Base).
           - Environnement web (React, Semantic UI,  Firebase).
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Stagiaire
+      time: 2017-01 / 2017-04
+      company: KNSD , Tunis
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Projet Fin d'Étude (4 mois)
+          - Création d’un jeu multijoueurs en ligne au temps réel , ce jeu contient un espace (administratif, clientèle ) , chat , liste des joueur en ligne,un espace de gestion des comptes . 
+          - Conception 
+          - Création de la charte graphique de jeu 
+          - Développement et l'intégration du projet 
+          - Technologies (JavaScript, JQuery, JQuery-UI, SocketIO, MEAN stack (MongoDB, Express Js, Angular Js, Node js ), CSS, HTML, Bootstrap ...) 
+          - Environnement de développement (atome, Ubuntu 16.04 , node , MongoDB, StartUML,Photoshop... )
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
+    - role: Stagiaire
       time: 2012 - 2014
-      company: Amazon, London
+      company: Direction Centrale Système Informatique, Tunisie Telecom, Tunis
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+      Stage d’été ( 1 mois)
 
-          - Bullet point
-          - Bullet point
+      Application Webmapping (la carte de couverture du réseau mobile 2G, 3G)
+
+      - Installation Configuration de serveur cartographique ( Geoserver )
+      - Publication et mise en place les couches nécessaire de la carte
+      - Étude conceptuelle ( charte graphique, UML)
+      - Intégration et développement de l'application
+      - Technologies (HTML,CSS, JavaScript, JQuery, Openlayers3 Api, PHP5, SQL, ...)
+      - Environnement de développement (Geoserver , Xampp , easyphp , Sublime text , ...)
 
 projects:
     title: Projects
