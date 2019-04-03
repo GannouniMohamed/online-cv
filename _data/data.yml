@@ -139,16 +139,16 @@ experiences:
       time: 2012 - 2014
       company: Direction Centrale Système Informatique, Tunisie Telecom, Tunis
       details: |
-      Stage d’été ( 1 mois)
+        Stage d’été ( 1 mois)
 
-      Application Webmapping (la carte de couverture du réseau mobile 2G, 3G)
+        Application Webmapping (la carte de couverture du réseau mobile 2G, 3G)
 
-      - Installation Configuration de serveur cartographique ( Geoserver )
-      - Publication et mise en place les couches nécessaire de la carte
-      - Étude conceptuelle ( charte graphique, UML)
-      - Intégration et développement de l'application
-      - Technologies (HTML,CSS, JavaScript, JQuery, Openlayers3 Api, PHP5, SQL, ...)
-      - Environnement de développement (Geoserver , Xampp , easyphp , Sublime text , ...)
+        - Installation Configuration de serveur cartographique ( Geoserver )
+        - Publication et mise en place les couches nécessaire de la carte
+        - Étude conceptuelle ( charte graphique, UML)
+        - Intégration et développement de l'application
+        - Technologies (HTML,CSS, JavaScript, JQuery, Openlayers3 Api, PHP5, SQL, ...)
+        - Environnement de développement (Geoserver , Xampp , easyphp , Sublime text , ...)
 
 projects:
     title: Projects
