@@ -214,18 +214,12 @@ skills:
       - name: GraphQL
         level: 95%
 
-      - name: Apollo
+      - name: Apollo / Relay
         level: 95%
 
-      - name: Relay
+      - name: Redux , Flux js
         level: 95%
 
-      - name: Redux
-        level: 95%
-
-      - name: Flux js
-        level: 95%
-      
       - name: HTML
         level: 98%
       
@@ -242,7 +236,7 @@ skills:
         level: 95%
 
       - name: Docker
-        level: 75%
+        level: 65%
 
       - name: Firebase
         level: 95%
@@ -251,7 +245,7 @@ skills:
         level: 85%
 
       - name: Cordova
-        level: 80%
+        level: 70%
 
       - name: Git
         level: 98%
